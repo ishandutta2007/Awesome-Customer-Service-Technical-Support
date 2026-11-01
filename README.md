@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Service-Technical-Support/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Service-Technical-Support?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Service-Technical-Support/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Service-Technical-Support?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Service-Technical-Support/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Service-Technical-Support?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Service-Technical-Support/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Service-Technical-Support?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Service-Technical-Support/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -62,9 +62,9 @@ Market concentration follows a two-tier paradigm:
 
 ## 💻 Open-Source GitHub Projects
 
-*Self-hosted helpdesks, ticketing systems, and ITSM solutions sorted by GitHub Star Count (descending).*
+*Self-hosted helpdesks, ticketing systems, and ITSM solutions sorted by GitHub Stars_Count (descending).*
 
-### 1. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+### 1. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 * **Description:** Open-source omnichannel customer engagement platform alternative to Intercom, Zendesk, and Drift.
 * **License:** MIT License
 * **Tech Stack:** Ruby on Rails, Vue.js, PostgreSQL, Redis
@@ -73,7 +73,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 2. **[UVdesk Community Edition](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)
+### 2. **[UVdesk Community Edition](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)
 * **Description:** Fully extensible open-source helpdesk system built for standard and enterprise PHP hosting environments.
 * **License:** Open Software License 3.0 (OSL-3.0)
 * **Tech Stack:** PHP (Symfony framework), MySQL
@@ -82,7 +82,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 3. **[GLPI Project](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
+### 3. **[GLPI Project](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
 * **Description:** Enterprise open-source ServiceDesk, Helpdesk, and IT Asset Management (ITSM/ITAM) platform.
 * **License:** GPL-3.0 License
 * **Tech Stack:** PHP, MariaDB / MySQL
@@ -91,7 +91,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 4. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+### 4. **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
 * **Description:** Web-based, open-source user support and customer ticketing system with modern real-time interactions.
 * **License:** GNU AGPLv3
 * **Tech Stack:** Ruby on Rails, PostgreSQL/MySQL, Elasticsearch
@@ -100,7 +100,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 5. **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
+### 5. **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
 * **Description:** Lightweight, open-source shared email inbox and helpdesk that serves as a direct self-hosted drop-in alternative to Help Scout and Zendesk.
 * **License:** GNU AGPLv3
 * **Tech Stack:** PHP 8+ (Laravel Framework), MySQL/MariaDB
@@ -109,7 +109,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 6. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
+### 6. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
 * **Description:** Battle-tested, widely-deployed open-source customer support ticketing platform.
 * **License:** GPL-2.0 License
 * **Tech Stack:** PHP, MySQL/MariaDB
@@ -118,7 +118,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 7. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
+### 7. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
 * **Description:** Modern open-source helpdesk and customer ticketing system built on the extensible Frappe Framework.
 * **License:** GNU AGPLv3
 * **Tech Stack:** Python, Vue.js 3, MariaDB, Redis, Tailwind CSS
@@ -127,7 +127,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 8. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)
+### 8. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub_Stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)
 * **Description:** Modern, mobile-first open-source customer service helpdesk and customer communication app.
 * **License:** MIT License
 * **Tech Stack:** Ruby on Rails, PostgreSQL
@@ -136,7 +136,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 9. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
+### 9. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
 * **Description:** Open-source helpdesk and ticket management software designed with a clean, responsive single-page architecture.
 * **License:** Apache-2.0 License
 * **Tech Stack:** Node.js, Express, MongoDB, Elasticsearch
@@ -145,7 +145,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 10. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)
+### 10. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)
 * **Description:** Industrial-grade open-source ticket tracking platform renowned for granular security and complex ticket workflows.
 * **License:** GPL-2.0 License
 * **Tech Stack:** Perl, PostgreSQL / MySQL / Oracle
@@ -154,7 +154,7 @@ Market concentration follows a two-tier paradigm:
 
 ---
 
-### 11. **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)
+### 11. **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub_Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)
 * **Description:** Actively maintained open-source IT Service Management (ITSM) and ticketing platform (fork of (OTRS)® Community Edition).
 * **License:** GPL-3.0 License
 * **Tech Stack:** Perl, Apache/Nginx, MariaDB / MySQL / PostgreSQL / Oracle
@@ -171,7 +171,7 @@ Contributions are welcome and greatly appreciated! 🚀
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-platform`
 3. ✏️ **Add your entry** under the appropriate section in `README.md` following the existing format:
    - Name and link
-   - GitHub stars badge (with `style=social&color=white`) linking to its stargazers page
+   - GitHub_Stars_Badge (with `style=social&color=white`) linking to its stargazers page
    - Description, License, Tech stack, and operational highlights
 4. 📝 **Commit your changes**: `git commit -m "Add NewTool to open-source support list"`
 5. 🚀 **Push to your branch**: `git push origin feature/add-new-platform`
