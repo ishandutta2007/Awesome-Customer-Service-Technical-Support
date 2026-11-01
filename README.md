@@ -32,79 +32,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global customer service and technical support software market is estimated at roughly **$11B–$15B** (projected to exceed **$26B–$40B+** by the early 2030s at an ~8–12% CAGR, and upwards of $50B+ when including broader cloud contact center and ITSM ecosystems). The sector exhibits **moderate concentration at the enterprise tier**—anchored by dominant CRM and enterprise service desk giants like Salesforce, ServiceNow, and Atlassian—while remaining **highly fragmented across SMB, niche support, and self-hosted helpdesk alternatives** competing on vertical workflows, price agility, and autonomous AI-first resolution.
 
 ## SaaS/Hosted Platforms
 
+| Product | Company Valuation / Revenue | Starting Pricing | Free Tier / Trial Limits | Key Focus & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Service Cloud](https://www.salesforce.com/)** | **~$190B Market Cap** (~$41.5B FY26 Revenue) | **$25/user/month** (Starter Suite, billed annually) | **30-day free trial** (full Starter Suite functionality; no credit card required) | Large enterprises needing deep CRM-connected case routing & Einstein AI |
+| **[ServiceNow CSM](https://www.servicenow.com/)** | **~$110B–$150B Market Cap** (~$13B+ TTM Revenue) | **~$100–$150/fulfiller/month** (entry tier; min annual spend ~$40k) | **No perpetual free tier**; free Developer PDI (1 active instance for testing, subject to reclamation on inactivity) or 14–30 day sales trial | Enterprises demanding deep ITSM, CMDB, and cross-departmental workflow integration |
+| **[Jira Service Management](https://www.atlassian.com/software/jira/service-management)** | **~$50B Market Cap** (~$6.57B FY26 Revenue, Atlassian) | **$17.65/agent/month** (or ~$21,000/year for 100 agents; Standard) | **Free forever plan**: Up to **3 agents**, unlimited customers, 2 GB storage, core ITSM features | Dev & engineering-aligned support teams needing native Jira/Atlassian integration |
+| **[Zoho Desk](https://www.zoho.com/desk/)** | **~$11B–$12.5B Valuation est.** (~$1.4B–$1.5B Revenue, Zoho Corp) | **$7/agent/month** (Express tier, billed annually) | **Free forever plan**: Up to **3 agents**, email ticketing, customer management, private knowledge base | SMBs & cost-conscious teams seeking robust ticketing with a genuine free plan |
+| **[Zendesk Support](https://www.zendesk.com/)** | **$10.2B Acquisition Valuation** (~$2B ARR, PE-owned) | **$19/agent/month** (Support Team, billed annually) | **14-day free trial** (full access to Zendesk Suite features; no credit card required) | Organizations prioritizing mature omnichannel ticketing, macros, and integrations |
+| **[Freshdesk](https://www.freshworks.com/freshdesk/)** | **~$3.9B Market Cap** (~$900M TTM Revenue, Freshworks) | **$15/agent/month** (Growth tier, billed annually; $19 monthly) | **14-day free trial** (up to 10 agents on Pro tier; no credit card required) | Mid-market teams wanting modern omnichannel ticketing with Freddy AI |
+| **[Intercom](https://www.intercom.com/)** | **$3.6B Acquisition Valuation** (~$400M ARR, Salesforce-owned) | **$0.99/seat/month** (Essential) + **$0.99 per Fin AI resolution** | **14-day free trial** (full access to Fin AI Agent, inbox & help center; optional 7-day extension) | Fast-paced tech companies and SaaS teams wanting AI-first, outcome-based customer resolution |
+| **[HappyFox](https://www.happyfox.com/)** | **~$20M ARR** (Bootstrapped, Private) | **$24/agent/month** (Basic plan, billed annually; max 5 agents) | **14-day free trial** (unlimited access to help desk features; no credit card required) | Mid-size teams wanting structured workflow automation without enterprise overhead |
+| **[Kayako](https://kayako.com/)** | **~$10M–$15M ARR est.** (ESW Capital / Trilogy) | **$1.00 per AI resolution** (or ~$79/agent/month for Kayako One) | **14-day free trial** (full access to AI automation & support inbox; no credit card required) | Teams prioritizing pure autonomous resolution pricing with zero human escalation charges |
 
-
-- **[Jira Service Management](https://www.atlassian.com/software/jira/service-management)**
-
-  **ITSM and technical support desk** within the Atlassian ecosystem. **Pricing**: **Free up to 3 agents**; **Standard from ~$19,700/year for 100 agents** (rising to ~$21,000 from 13 Oct 2026); **Premium ~$55,000/year for 100 agents**; Enterprise quote-only. Customer Service Management included at **$1 per resolution** on paid tiers . **Free tier**: Yes, 3 agents with unlimited customers. **Best for**: teams already on Jira wanting dev-to-support integration—**trade-off**: pricing restructuring Oct 2026; AI features tied to Atlassian Guard.
-
-
-
-- **[Zendesk Support](https://www.zendesk.com/)**
-
-  **Enterprise support suite** with omnichannel ticketing. **Pricing**: **Support Team $19/agent/month** (entry); **Suite Team $55/agent/month** (adds messaging, help center, AI); **Suite Professional $115/agent/month**; **Advanced AI add-on $50/agent/month** stacks on top . **Free tier**: No free plan; **14-day trial**. **Best for**: teams wanting the most mature omnichannel support—**trade-off**: add-ons stack; Suite Team + Advanced AI reaches ~$105/agent/month .
-
-
-
-- **[Freshdesk](https://www.freshworks.com/freshdesk/)**
-
-  **Support ticketing** with Freddy AI. **Pricing**: **Growth ~$15–19/agent/month** (annual); **Pro ~$49/agent/month**; **Enterprise ~$89/agent/month** (includes Freddy AI Insights). **Freddy AI Copilot $29/agent/month add-on** on Pro and Enterprise; **500 free AI Agent sessions**, then **$49 per 100 overage** . **Free tier**: **No free plan** on current pricing page; 14-day trial. **Best for**: mid-market teams wanting Zendesk-comparable features at lower cost—**trade-off**: AI Copilot costs extra even on Enterprise; no audit logs below Enterprise .
-
-
-
-- **[ServiceNow CSM](https://www.servicenow.com/)**
-
-  **Enterprise customer service management** on ServiceNow platform. **Pricing**: **~$100–$200/fulfiller/month** at smallest band, falling to **$38–$90 above 2,500 seats**; **Now Assist AI adds ~$25–$75/fulfiller/month** on pre-2026 contracts; April 2026 tiers meter AI via assist allocation . **Free tier**: None. **Best for**: large enterprises needing CSM integrated with ITSM and CMDB—**trade-off**: complex licensing; 30% median saving possible by correcting fulfiller counts before renewal .
-
-
-
-- **[Salesforce Service Cloud](https://www.salesforce.com/)**
-
-  **Enterprise service platform** with case management and Einstein AI. **Pricing**: **Starter Suite $25/user/month**; **Pro Suite $100/user/month**; **Enterprise $165/user/month**; **Unlimited $330/user/month**; **Agentforce add-ons** extra . **Free tier**: 30-day free trial; no credit card . **Best for**: large enterprises already on Salesforce—**trade-off**: implementation requires Salesforce admin; costs climb steeply above Pro Suite .
-
-
-
-- **[Zoho Desk](https://www.zoho.com/desk/)**
-
-  **Support ticketing** within Zoho ecosystem. **Pricing**: **Free up to 3 agents**; **Express $7/agent/month** (5-user cap, includes AI Agents); **Standard $14/agent/month**; **Professional $23/agent/month** (Zia AI, telephony); **Enterprise $40/agent/month** (multi-brand, 50 light agents included) . **Free tier**: Yes, 3 agents. **Best for**: SMBs wanting affordable ticketing with genuine free tier—**trade-off**: Express capped at 5 users; advanced AI requires Professional+.
-
-
-
-- **[HappyFox](https://www.happyfox.com/)**
-
-  **Help desk software** with workflow automation. **Pricing**: **Starting at ~$24/month** per third-party listings; tiered by agents . **Free tier**: Not specified in results; trial available. **Best for**: SMBs wanting workflow automation without enterprise pricing—**trade-off**: limited public pricing detail.
-
-
-
-- **[Intercom](https://www.intercom.com/)**
-
-  **AI-first support platform** with Fin AI Agent. **Pricing**: **Essential from $0.99/seat/month** (annual) plus **Fin at $0.99 per outcome** (minimum monthly commitment applies); **Advanced $85/seat/month**; **Expert $132/seat/month**; **Copilot add-on $29/agent/month**; **Pro add-on $100/month** . **Free tier**: No permanent free tier; trial available. **Best for**: teams wanting AI resolution priced per outcome—**trade-off**: seat + per-outcome costs stack; Fin requires minimum commitment .
-
-
-
-- **[Kayako](https://kayako.com/)**
-
-  **AI-first support platform** with resolution-based pricing. **Pricing**: **$1 per AI resolution**—no per-seat fees, no add-ons; if AI escalates to human, you don't pay. No minimums, no commitments . **Free tier**: Trial available; no permanent free plan . **Best for**: teams wanting predictable AI-first costs without seat fees—**trade-off**: less feature depth than Zendesk/Freshdesk as processes grow .
-
-
-
-- **[Atlassian Support](https://www.atlassian.com/)** (**Not a vendor product**)
-
-  **Atlassian's own support services** for their products. **Note**: This is Atlassian's customer support for their software, **not a standalone helpdesk platform available for purchase**. Organizations seeking support software should evaluate Jira Service Management or third-party options.
-
-
+*(Note: Atlassian Support is Atlassian's internal customer service delivery organization for its own software suite rather than a standalone commercial ticketing tool; for Atlassian's service desk software, refer to Jira Service Management above.)*
 
 ## Open-Source GitHub Projects
 
